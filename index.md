@@ -4,3 +4,6 @@
 for i in range(5):
   print("Hello, world!")
 ```
+- [ ] Finish homework
+- [ ] Cook dinner
+- [ ] Workout
